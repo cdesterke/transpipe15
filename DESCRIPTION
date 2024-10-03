@@ -1,0 +1,14 @@
+Package: transpipe15
+Type: transcriptome analyses
+Title: transpipe is dedicated to transcriptome analysis
+Version: 0.1.5
+Author: Christophe Desterke
+Maintainer: The package maintainer <christophe.desterke@gmail.com>
+Description: transcriptome analyses
+    pipeline for graph visualization.
+License: GNU
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
