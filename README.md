@@ -14,7 +14,7 @@ install_github("cdesterke/transpipe15")
 
 ## classical script
 ```r
-library(transpipe)
+library(transpipe15)
 
 ## load data
 data(exp)
