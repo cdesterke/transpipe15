@@ -51,6 +51,8 @@ pcatrans(variable,pheno,group="group",pal="Set1",alpha=0.7,names=TRUE)
 
 ## draw heatmap
 bestheat(process,pheno,scale="none",font=10,rownames=T)
-
-
 ```
+### REFERENCES
+
+> Christophe Desterke , Yuanji Fu , Raquel Francés , Jorge Mata-Garrido: Metabolic Transcriptional Activation in Ulcerative Colitis Identified Through scRNA-seq Analysis; Genes (Basel). 2024 Oct 31;15(11):1412. doi: 10.3390/genes15111412.
+
